@@ -1,1 +1,7 @@
-.gitconfig
+[credential]
+	helper = osxkeychain
+[user]
+	name = Asle Berge
+	email = asle.berge@gmail.com
+[init]
+	defaultBranch = main
